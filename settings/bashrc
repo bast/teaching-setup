@@ -1,0 +1,1 @@
+alias cat="batcat --style=plain --paging=never"

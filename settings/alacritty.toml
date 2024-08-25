@@ -1,0 +1,7 @@
+# https://github.com/alacritty/alacritty-theme
+import = [
+  "settings/pencil_light.toml",
+]
+
+[font]
+size = 12
