@@ -14,6 +14,11 @@ This can be useful for the following situation:
 - It creates an isolated home folder: Nobody sees your messy home folder and you cannot mess up more.
 
 
+## Requires
+
+- [Apptainer](https://apptainer.org/)
+
+
 ## Usage
 
 - Clone this repository.
