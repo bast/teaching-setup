@@ -33,6 +33,12 @@ This can be useful for the following situation:
     makes it easier to tweak settings without rebuilding the container.
 
 
+## Ideas for what to add into it
+
+- Sharing the history of commands, maybe using https://github.com/bast/history-window/.
+- More tools depending on the course.
+
+
 ## Inspiration
 
 - https://blog.yadutaf.fr/2017/09/10/running-a-graphical-app-in-a-docker-container-on-a-remote-server/
